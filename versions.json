@@ -30,5 +30,16 @@
   {
     "version":1.7,
     "md5":"01fa92cdf1f159cb6e7336ade65cdb4"
+  },
+  {
+    "version":1.8,
+    "carto": [{"country":"fr", "md5":"3525aeb749bf2b3a50c7d73aa00d2f5f"},
+      {"country":"we", "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4"}]
+  },
+  {
+    "version":1.9,
+    "carto": [{"country":"fr", "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4"},
+      {"country":"we", "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4"}]
   }
+  
 ]
