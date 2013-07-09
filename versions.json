@@ -40,6 +40,11 @@
     "version":1.9,
     "carto": [{"country":"fr", "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4"},
       {"country":"we", "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4"}]
+  },
+  {
+    "version":2.0,
+    "carto": [{"country":"fr", "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9"},
+      {"country":"we", "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9"}]
   }
   
 ]
