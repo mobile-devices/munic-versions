@@ -1,0 +1,17 @@
+{
+    "fr": [ "France", "Monaco" ],
+    "we": [ "Andorra", "Austria", "Belgium", "Denmark", "France", "Germany",
+            "Gibraltar", "Greece", "Ireland", "Italy", "Liechtenstein",
+            "Luxembourg", "Malta", "Monaco", "Norway", "Portugal",
+            "San Marino", "Spain", "Suomi", "Sweden", "Switzerland",
+            "The Netherlands", "United Kingdom", "Vatican City"
+          ],
+    "weN": [ "Andorra", "Austria", "Belgium", "Channel islands", "Denmark",
+             "Eire", "England", "Finland", "France", "Germany", "Gibraltar",
+             "Greece", "Iceland", "Ireland", "Isle of man", "Italy",
+             "Liechtenstein", "Luxembourg", "Malta", "Monaco", "Netherlands",
+             "Northern ireland", "Norway", "Portugal", "San marino",
+             "Scotland", "Spain", "Sweden", "Switzerland", "The vatican",
+             "Vatican city", "Wales"
+           ]
+}
