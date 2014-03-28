@@ -24,5 +24,12 @@
              "we": { "md5":"MUNIC_21_D4-2.07001002",
                      "available": 0
                    }
+           },
+    "2.2": { "fr": { "md5":"MUNIC_22_D4-2.07002001",
+                     "available": 0
+                   },
+             "we": { "md5":"MUNIC_22_D4-2.07002002",
+                     "available": 0
+                   }
            }
 }
