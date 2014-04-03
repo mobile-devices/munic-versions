@@ -13,5 +13,17 @@
              "Northern ireland", "Norway", "Portugal", "San marino",
              "Scotland", "Spain", "Sweden", "Switzerland", "The vatican",
              "Vatican city", "Wales"
-           ]
+           ],
+    "weFull": [  "Albania" ,"Andorra", "Austria", "Azerbaijan", "Belarus",
+                 "Belgium", "Bosnia", "Bosnia and herzegovina", "Bulgaria",
+                 "Channel islands", "Croatia", "Czech republic", "Denmark",
+                 "Eire" ,"England", "Estonia", "Finland", "France", "F. yugoslav repub. of macedonia",
+                 "Germany", "Gibraltar", "Greece", "Herzegovina", "Hungary",
+                 "Iceland", "Ireland", "Isle of man", "Italy", "Latvia",
+                 "Liechtenstein", "Lithuania", "Luxembourg", "Malta", "Moldova",
+                 "Monaco", "Montenegro", "Netherlands", "Northern ireland", "Norway",
+                 "Poland", "Portugal", "Romania", "R    ussia", "San marino", "Scotland",
+                 "Serbia", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "The vatican",
+                 "Turkey", "Ukraine", "Vatican city", "Wales"
+              ]
 }
