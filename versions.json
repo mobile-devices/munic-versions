@@ -16,6 +16,9 @@
                    },
              "we": { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
                      "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_we.exe"
+                   },
+             "weFull": { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
+                     "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_we.exe"
                    }
            },
     "2.1": { "fr": { "md5":"MUNIC_21_D4-2.07001001",
