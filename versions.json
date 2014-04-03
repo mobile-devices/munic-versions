@@ -1,38 +1,40 @@
 {
-    "1.0": { "fr": { "md5":"5f69bfab6805f23a6f4573185b76c398" }},
-    "1.1": { "fr": { "md5":"50149728c4f588ab824b195121995c80" }},
-    "1.2": { "fr": { "md5":"50149728c4f588ab824b195121995c80" }},
-    "1.3": { "fr": { "md5":"cb3bff44d2b854d77d222ff7ccd8bdf7" }},
-    "1.4": { "fr": { "md5":"ce9951aecc5bebb6473525aa7189c4b6" }},
-    "1.5": { "fr": { "md5":"953cd17b6b53466bea330f2a3a126f27" }},
-    "1.6": { "fr": { "md5":"5764dc62a153b66f7551b50f4264e94c" }},
-    "1.7": { "fr": { "md5":"01fa92cdf1f159cb6e7336ade65cdb4"  }},
-    "1.8": { "fr": { "md5":"3525aeb749bf2b3a50c7d73aa00d2f5f" },
-             "we": { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" }},
-    "1.9": { "fr": { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" },
-             "we": { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" }},
-    "2.0": { "fr": { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
-                     "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_fr.exe"
-                   },
-             "we": { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
-                     "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_we.exe"
-                   },
+    "1.0": { "fr":     { "md5":"5f69bfab6805f23a6f4573185b76c398" }},
+    "1.1": { "fr":     { "md5":"50149728c4f588ab824b195121995c80" }},
+    "1.2": { "fr":     { "md5":"50149728c4f588ab824b195121995c80" },
+             "weFull": { "md5":"50149728c4f588ab824b195121995c80" },
+           },
+    "1.3": { "fr":     { "md5":"cb3bff44d2b854d77d222ff7ccd8bdf7" }},
+    "1.4": { "fr":     { "md5":"ce9951aecc5bebb6473525aa7189c4b6" }},
+    "1.5": { "fr":     { "md5":"953cd17b6b53466bea330f2a3a126f27" }},
+    "1.6": { "fr":     { "md5":"5764dc62a153b66f7551b50f4264e94c" }},
+    "1.7": { "fr":     { "md5":"01fa92cdf1f159cb6e7336ade65cdb4"  }},
+    "1.8": { "fr":     { "md5":"3525aeb749bf2b3a50c7d73aa00d2f5f" },
+             "we":     { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" }},
+    "1.9": { "fr":     { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" },
+             "we":     { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" }},
+    "2.0": { "fr":     { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
+                         "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_fr.exe"
+                       },
+             "we":     { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
+                         "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_we.exe"
+                       },
              "weFull": { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9",
-                     "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_we.exe"
-                   }
+                         "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_we.exe"
+                       }
            },
-    "2.1": { "fr": { "md5":"MUNIC_21_D4-2.07001001",
-                     "available": 0
-                   },
-             "we": { "md5":"MUNIC_21_D4-2.07001002",
-                     "available": 0
-                   }
+    "2.1": { "fr":     { "md5":"MUNIC_21_D4-2.07001001",
+                         "available": 0
+                       },
+             "we":     { "md5":"MUNIC_21_D4-2.07001002",
+                         "available": 0
+                       }
            },
-    "2.2": { "fr": { "md5":"MUNIC_22_D4-2.07002001",
-                     "available": 0
-                   },
-             "we": { "md5":"MUNIC_22_D4-2.07002002",
-                     "available": 0
-                   }
+    "2.2": { "fr":     { "md5":"MUNIC_22_D4-2.07002001",
+                         "available": 0
+                       },
+             "we":     { "md5":"MUNIC_22_D4-2.07002002",
+                         "available": 0
+                       }
            }
 }
