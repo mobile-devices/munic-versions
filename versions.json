@@ -28,10 +28,10 @@
                        }
            },
     "2.2": { "fr":     { "md5":"MUNIC_22_D4-2.07002001",
-                         "available": 0
+                         "available": 1
                        },
              "we":     { "md5":"MUNIC_22_D4-2.07002002",
-                         "available": 0
+                         "available": 1
                        }
            }
 }
