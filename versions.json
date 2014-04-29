@@ -28,11 +28,11 @@
                        }
            },
     "2.2": { "fr":     { "md5":"MUNIC_22_D4-2.07002001",
-                         "restore_url": "https://s3-eu-west-1.amazonaws.com/mdi-munic/DFUs/DFU-Restore-Munic_fr_cs_2.2.exe"
+                         "restore_url": "https://s3-eu-west-1.amazonaws.com/mdi-munic/DFUs/DFU-Restore-Munic_fr_cs_2.2.exe",
                          "available": 1
                        },
              "we":     { "md5":"MUNIC_22_D4-2.07002002",
-                         "restore_url": "https://s3-eu-west-1.amazonaws.com/mdi-munic/DFUs/DFU-Restore-Munic_we_cs_2.2.exe"
+                         "restore_url": "https://s3-eu-west-1.amazonaws.com/mdi-munic/DFUs/DFU-Restore-Munic_we_cs_2.2.exe",
                          "available": 1
                        }
            }
