@@ -13,16 +13,10 @@
              "we":     { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" }},
     "1.9": { "fr":     { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" },
              "we":     { "md5":"be8c9af017ceeb4f4f7025bf8c4c3ec4" }},
-    "2.0": { "fr":     { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9" ,
-                        "restore_url": "http://mdi-munic.s3.amazonaws.com/DFUs/DFU-Restore-Munic_fr.exe"},
+    "2.0": { "fr":     { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9" },
              "we":     { "md5":"51a5e6be9e2fc69dc9ad5a8ce83320c9" }},
-    "2.1": { "fr":     { "md5":"MUNIC_21_D4-2.07001001",
-                         "available": 0
-                       },
-             "we":     { "md5":"MUNIC_21_D4-2.07001002",
-                         "available": 0
-                       }
-           },
+    "2.1": { "fr":     { "md5":"MUNIC_21_D4-2.07001001" },
+             "we":     { "md5":"MUNIC_21_D4-2.07001002" }},
     "2.2": { "fr":     { "md5":"MUNIC_22_D4-2.07002001",
                          "restore_url": "https://s3-eu-west-1.amazonaws.com/mdi-munic/DFUs/DFU-Restore-Munic_fr_cs_2.2.exe",
                          "available": 1
